@@ -18,5 +18,3 @@ A + B \bmod C
 	&= (A \bmod C) + (B \bmod C) \bmod C
 \end{align}
 $$
-
-
