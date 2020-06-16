@@ -8,3 +8,4 @@
 - [순열과 조합](https://daily-boj.github.io/wiki/documents/순열과%20조합)
 - [전처리](https://daily-boj.github.io/wiki/documents/전처리)
 - [알타웨이](https://daily-boj.github.io/wiki/documents/알타웨이)*
+- [오차](https://daily-boj.github.io/wiki/documents/오차)
