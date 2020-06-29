@@ -9,3 +9,4 @@
 - [전처리](https://daily-boj.github.io/wiki/documents/전처리)
 - [알타웨이](https://daily-boj.github.io/wiki/documents/알타웨이)*
 - [오차](https://daily-boj.github.io/wiki/documents/오차)
+- [입출력](https://daily-boj.github.io/wiki/documents/입출력)
